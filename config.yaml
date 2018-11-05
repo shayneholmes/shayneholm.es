@@ -1,0 +1,41 @@
+baseurl: https://shayneh.netlify.com/
+title: Shayne Holmes
+copyright: Copyright &copy; 2018 Shayne Holmes
+canonifyurls: false
+theme: kiera
+
+DefaultContentLanguage: en
+languageCode: en-us
+
+paginate: 100
+
+summaryLength: 30
+enableEmoji: true
+pygmentsCodeFences: true
+
+author:
+  name: Shayne Holmes
+  github: shayneholmes
+  gitlab:
+  linkedin: shayneholmes
+  facebook:
+  twitter:
+  instagram:
+
+params:
+  # tagline: Reading, writing, ruminating, and the occasional Oxford comma.
+  description: Shayne Holmes's blog
+
+permalinks: /:year/:month/:slug/
+
+menu:
+  main:
+  - identifier: posts
+    name: Posts
+    url: /
+    weight: 10
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 30
+
