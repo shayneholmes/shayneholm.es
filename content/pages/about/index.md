@@ -6,7 +6,7 @@ resources:
   src: PloverPlane2.png
   title: Super plane
 menu: main
-meta: true
+meta: false
 ---
 {{< figure src="plane" class="float-right" >}}
 
