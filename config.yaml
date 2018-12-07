@@ -23,7 +23,7 @@ author:
   instagram:
 
 params:
-  # tagline: Reading, writing, ruminating, and the occasional Oxford comma.
+  tagline: Reading, writing, ruminating, and the occasional Oxford comma.
   description: Shayne Holmes's blog
 
 permalinks: /:year/:month/:slug/
