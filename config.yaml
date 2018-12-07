@@ -2,7 +2,6 @@ baseurl: https://shayneholm.es/
 title: Shayne Holmes
 copyright: Copyright &copy; 2018 Shayne Holmes
 canonifyurls: false
-preserveTaxonomyNames: true
 theme: kiera
 
 DefaultContentLanguage: en
