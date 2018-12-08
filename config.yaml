@@ -39,3 +39,8 @@ menu:
     name: Categories
     url: /categories/
     weight: 30
+  bottom:
+  - identifier: about
+    name: About
+    url: /pages/about/
+    weight: 30
