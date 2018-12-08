@@ -1,0 +1,12 @@
+{{- $img := $.Page.Resources.GetMatch (.Get "src" )}}
+{{- if not $img -}}
+FIGURE ERROR
+{{- else }}
+{{- $title := or (.Get "title") $img.Title -}}
+<figure class="{{ or (.Get "class") "mid" }}">
+  <img src="{{ $img.RelPermalink}}" alt="{{ $title }}">
+  {{- if .Get "title" }}
+  <figcaption>{{ $title }}</figcaption>
+  {{- end }}
+</figure>
+{{- end -}}

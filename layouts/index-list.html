@@ -1,0 +1,16 @@
+{{- define "main" -}}
+
+<section id="list">
+  {{- $baseurl := .Site.BaseURL }}
+  {{ .Content }}
+  <ul>
+    {{- range where .Pages "Section" "blog" }}
+    <li>
+      <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
+      <time class="date-meta">{{ .Date.Format "Jan 2006" }}</time>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- template "_internal/pagination.html" . }}
+{{- end }}
