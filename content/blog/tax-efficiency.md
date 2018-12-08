@@ -20,5 +20,5 @@ Conversely, if you pay off your mortgage, you do "lose" the mortgage interest de
 
 Is tax efficiency around minimizing your taxes? It shouldn't be. Think instead about maximizing returns instead, and that will point you in the right direction.
 
-[^1]: The real impact of the deduction is to lower the effective interest rate of the mortgage, from, say, 4.0% to 3.4%, assuming that (a) you itemize more than the standard deduction already, (b) you aren't in any credit phaseout ranges, and \(c) ignoring air resistance.
+[^1]: The real impact of the deduction is to lower the effective interest rate of the mortgage, from, say, 4.0% to 3.4%, assuming that (a) you itemize more than the standard deduction already, (b) you aren't in any credit phaseout ranges, and \(c) negligible air resistance.
 
