@@ -31,16 +31,8 @@ permalinks: /:year/:month/:slug/
 
 menu:
   main:
+    # Here because we want a different link name in top nav than if we link to it from elsewhere
   - identifier: posts
     name: Posts
     url: /blog/
     weight: 10
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 30
-  bottom:
-  - identifier: about
-    name: About
-    url: /pages/about/
-    weight: 30
