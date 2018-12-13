@@ -1,8 +1,7 @@
 ---
 title: "Deep Work"
-date: 2018-12-10T08:26:35-08:00
+date: 2018-12-13T13:49:20
 categories: [books]
-draft: true
 ---
 Cal Newport's _Deep Work_ is a well-written overview of how to focus for fun and profit. It's divided conceptually into two parts: _Why_ to focus deeply, and _how_ to do it.
 
