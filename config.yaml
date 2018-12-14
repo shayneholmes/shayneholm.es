@@ -12,6 +12,7 @@ paginate: 100
 summaryLength: 30
 enableEmoji: true
 pygmentsCodeFences: true
+googleAnalytics: UA-131043498-1
 
 author:
   name: Shayne Holmes
