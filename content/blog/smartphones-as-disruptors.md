@@ -19,7 +19,7 @@ One way of fixing this is just to get in and out more quickly. A lockscreen voic
 
 ### Interruption
 
-Other times, my smartphone _shouldn't_ be involved in what I'm doing, but it inserts itself into my consciousness. I'm reading a book, or talking with a friend, or even writing a blog post, when --- _beep_ --- hold on, lemme check this --- oh, just an e-mail I don't need to respond to --- excuse the _interruption_. Wait, where was I?
+Other times, my smartphone _shouldn't_ be involved in what I'm doing, but it inserts itself into my consciousness. I'm reading a book, or talking with a friend, or even writing a blog post, when -- _beep_ -- hold on, lemme check this -- oh, just an e-mail I don't need to respond to -- excuse the _interruption_. Wait, where was I?
 
 Generally, this means just disabling distractions: When I am interrupted by a chiming e-mail alert, I get excited. But after getting distracted and forgetting good ideas because I got interrupted by an e-mail message, I turned those alerts off for good, along with their attendant red dots. Do I miss them? Sometimes, if I'm awaiting a particular e-mail: but my preference here is definitely for total silence.
 

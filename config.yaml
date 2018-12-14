@@ -15,6 +15,10 @@ pygmentsCodeFences: true
 enableGitInfo: true
 googleAnalytics: UA-131043498-1
 
+# Turn -- into m-dash
+blackfriday:
+  latexDashes: false
+
 author:
   name: Shayne Holmes
   github: shayneholmes
