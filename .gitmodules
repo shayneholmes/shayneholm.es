@@ -1,9 +1,3 @@
-[submodule "themes/simplicity"]
-	path = themes/simplicity
-	url = https://github.com/eshlox/simplicity.git
 [submodule "themes/kiera"]
 	path = themes/kiera
 	url = https://github.com/shayneholmes/hugo-kiera.git
-[submodule "themes/beautifulhugo"]
-	path = themes/beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
