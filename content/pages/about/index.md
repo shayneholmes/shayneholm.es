@@ -19,3 +19,4 @@ Catch me on:
 
 * [LinkedIn](https://www.linkedin.com/in/shayneholmes/)
 * [GitHub](https://github.com/shayneholmes)
+* [Email]({{< ref "contact.md" >}})
