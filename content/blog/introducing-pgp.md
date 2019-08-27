@@ -6,7 +6,7 @@ categories: [security, software]
 
 ## Now with 10× more PGP! &#128272;
 
-As of today my [contact page][contact] references my [my public PGP key](/shayneholmes.asc), which is also now included on the site.
+As of today my [contact page][contact] references [my public PGP key](/shayneholmes.asc), which is also now included on the site.
 
 ## Why PGP?
 
