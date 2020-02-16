@@ -2,7 +2,6 @@
 title: "Making Masterlocks"
 date: 2020-02-15T20:15:47-07:00
 categories: [puzzles, algorithms]
-slug: /blog/making-masterlocks
 resources:
 - name: lock
   src: masterlock-1535dwd.jpg
