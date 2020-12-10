@@ -1,7 +1,6 @@
 ---
 title: "Alpine backups: Home directory"
 date: 2020-12-10T10:38:37-08:00
-draft: true
 categories: [software]
 ---
 
