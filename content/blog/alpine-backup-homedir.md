@@ -37,7 +37,7 @@ to do my day-to-day operations. (It's called `huevo`, 'cause eggs have shells
 😬).
 
 ```sh
-$ adduser huevo2
+$ adduser huevo
 ```
 
 Now we explicitly include the home directory, so that it survives reboot (with
