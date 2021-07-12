@@ -12,5 +12,5 @@ Things quickly devolve into flights of fancy.
 
 <quote>When he arrives at the home page, he'll want to set up a new account.</quote>
 
-
+This reduces a user to a ridiculous on-the-rails strawman.
 
